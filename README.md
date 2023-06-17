@@ -2,7 +2,6 @@
   <tr>
     <td width="75%">
       <h1>Kaiyi Hu</h1>
-  <h2>EDUCATION</h2>
 <ul>
   <li><strong>China University of Petroleum-Beijing</strong><br>
   Materials Science and Engineering<br>
@@ -11,7 +10,14 @@
   Electrical & Computer Engineering<br>
   Core Modules: Data Structure, Principles of Computer Compiler, Computer Graphics, Database Curriculum Design, Software Engineering, Advanced Programming Language, Electronic Technology Practice, Project Management, Mechanical Design Foundation, etc.</li>
 </ul>
-
+   <td width="25%">
+ <img src="/1.jpg" width="100%">
+    </td>
+  </tr>
+</table>
+<table border="0">
+   <tr>
+    <td>
 <h2>INTERNSHIP EXPERIENCES</h2>
 <ul>
   <li><strong>KPMG</strong> (01/2023)<br>
@@ -64,3 +70,15 @@
   <li><strong>Certificates:</strong> SCRUM Foundation professional certificate, Green Software for Practitioners (LFC131), Advanced Google Analytics, the Digital Adda Artificial Intelligence Certification Program, Alibaba Cloud Certification of Fintech Solution Fundamentals, the Digital Adda C Programming Language Certification, Gremlin Certificated Chaos Engineering Professional</li>
   <li><strong>Strengths:</strong> Sturdy Resistance to Force, Strong Communicator</li>
 </ul>
+ </td>
+</table>
+
+<body>
+<h2>Badge</h2>
+<img src="https://badgen.net/badge/JavaScript/4.2/orange" alt="JavaScript 4.2 Badge">
+</body>
+
+<body>
+<h2>Visitor Count</h2>
+<img src="https://profile-counter.glitch.me/KaireenHu/count.svg">
+</body>
