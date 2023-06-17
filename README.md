@@ -1,3 +1,13 @@
+# Hi 🎉 Welcome to Kaireen's Github Homepage!
+<body>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Cristiano,%20I%20love%20you!&font=Roboto" />
+</body>
+
+<body>
+<h2>Visitor Count</h2>
+<img src="https://profile-counter.glitch.me/KaireenHu/count.svg">
+</body>
+
 <table border="0">
   <tr>
     <td width="75%">
@@ -64,9 +74,9 @@
 
 <h2>OTHERS</h2>
 <ul>
-  <li><strong>Computer Skills:</strong> Office, Dev-c++, SQL Sever, Visual C++, Java IDEA</li>
+  <li><strong>Computer Skills:</strong> Office, Dev-c++, MYSQL, Visual C++, Java IDEA</li>
   <li><strong>Material Skills:</strong> Tencent Cloud Developer Certification</li>
-  <li><strong>Language Skills:</strong> Chinese (Grade A Level II), English (TOEFL- 112)</li>
+  <li><strong>Test:</strong> Chinese (Grade A Level II), English (TOEFL- 112), GRE(167+170+5.0)</li>
   <li><strong>Certificates:</strong> SCRUM Foundation professional certificate, Green Software for Practitioners (LFC131), Advanced Google Analytics, the Digital Adda Artificial Intelligence Certification Program, Alibaba Cloud Certification of Fintech Solution Fundamentals, the Digital Adda C Programming Language Certification, Gremlin Certificated Chaos Engineering Professional</li>
   <li><strong>Strengths:</strong> Sturdy Resistance to Force, Strong Communicator</li>
 </ul>
@@ -75,10 +85,40 @@
 
 <body>
 <h2>Badge</h2>
-<img src="https://badgen.net/badge/JavaScript/4.2/orange" alt="JavaScript 4.2 Badge">
+<div class="badge-container">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
+  </div>
 </body>
 
 <body>
-<h2>Visitor Count</h2>
-<img src="https://profile-counter.glitch.me/Kaireen Hu/count.svg">
+<h2>Games</h2>
+  <div>
+<img src="https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white">
+<img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white">
+<img src="https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white">
+<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+<img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white">
+    </div>
+</body>
+
+<body>
+<h2>Github Status</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=KaireenHu&show_icons=true&theme=dark&count_private=true">
+</body>
+
+<body>
+<h2>Most Used Languages</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaireenHu&theme=dark&layout=compact">
 </body>
