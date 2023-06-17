@@ -82,3 +82,8 @@
 <h2>Visitor Count</h2>
 <img src="https://profile-counter.glitch.me/KaireenHu/count.svg">
 </body>
+
+<body>
+<h2>Github Status</h2>
+<img src="https://github-readme-stats.vercel.app/api?Kaireen Hu=coderfix-lab&show_icons=true&theme=dark&count_private=true">
+</body>
