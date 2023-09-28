@@ -71,6 +71,8 @@ core functionalities, and achieve project objectives according to the schedule.<
   The in situ mining technology is applied to the exploitation of medium- and low-maturity shale oil, which can use heaters to warm up the oil shale formations and pyrolyze the kerogen. Due to the low thermal conductivity of oil shale, electric heaters need extra equipment to improve heat transfer efficiency. In this study, a thermally conductive proppant is fabricated by coating epoxy resin and graphite on ceramic proppants for the first time, which could support the fracturing crack and transfer heat.</li>
   <li><strong>Key Laboratory of Oil and Gas Terahertz Spectroscopy and Photoelectric Detection in Petroleum and Chemical Industry</strong><br>
   The team independently built and designed optical paths and algorithms to apply terahertz spectroscopy technology to the field of oil and gas reservoir exploration and analysis</li>
+  <li><strong>State Key Laboratory of Petroleum Resources and Prospecting, Beijing Key Laboratory of Biogas Upgrading Utilization, Harvard SEAS-CUPB Joint Laboratory on Petroleum Science</strong><br>
+  Preparation of coated proppant for characterization and observation, and testing of its various necessary properties for improving oil recovery rate in petroleum extraction</li>
 </ul>
 
 <h2>AWARDS</h2>
