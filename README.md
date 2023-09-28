@@ -38,6 +38,15 @@
       <li>Used excel to visualize the data lake and analyze user data in conjunction with the business environment to develop effective marketing and growth strategies.</li>
     </ul>
   </li>
+  <li><strong>Wuhan Duolaima Information Technology Co., Ltd.</strong> (04/2023-08/2023)<br>
+  Java Development Engineer
+    <ul>
+      <li>Responsible for the backend development of the project and assist testing personnel in conducting software 
+system and module testing.</li>
+      <li>Undertake development tasks based on specific project requirements, assist in implementing the code for 
+core functionalities, and achieve project objectives according to the schedule.</li>
+    </ul>
+  </li>
   <li><strong>Ningbo Yixin Network Technology Co., Ltd.</strong> (06/2022-08/2022)<br>
   Software Development Intern
     <ul>
@@ -56,9 +65,9 @@
 
 <h2>ACADEMIC EXPERIENCES</h2>
 <ul>
-  <li><strong>Shaly Detritus Embedded Epoxy – Resin Coated Proppants</strong> (SCI-District 1)<br>
+  <li><strong>Shaly Detritus Embedded Epoxy – Resin Coated Proppants</strong> (SCI Q1 journal)<br>
   In shale gas development, the oil-based drilling debris produced is difficult due to its complex composition and harmful substances such as organic matter and heavy metals. However, the properties of shale debris in my country are different from those in foreign countries, so foreign pretreatment technology cannot be used for reference. We prepared shale debris film-coated proppant, characterized and evaluated it, and compared the pressure drop, settlement and flow conductivity before and after proppant film-coating to study a new type of film-coated proppant to guide the development of shale gas wells and oil and gas wells.</li>
-  <li><strong>Thermal Conductive Proppant With Self-Suspension Ability</strong> (SCI-District 1)<br>
+  <li><strong>Thermal Conductive Proppant With Self-Suspension Ability</strong> (SCI Q1 journal)<br>
   The in situ mining technology is applied to the exploitation of medium- and low-maturity shale oil, which can use heaters to warm up the oil shale formations and pyrolyze the kerogen. Due to the low thermal conductivity of oil shale, electric heaters need extra equipment to improve heat transfer efficiency. In this study, a thermally conductive proppant is fabricated by coating epoxy resin and graphite on ceramic proppants for the first time, which could support the fracturing crack and transfer heat.</li>
   <li><strong>Key Laboratory of Oil and Gas Terahertz Spectroscopy and Photoelectric Detection in Petroleum and Chemical Industry</strong><br>
   The team independently built and designed optical paths and algorithms to apply terahertz spectroscopy technology to the field of oil and gas reservoir exploration and analysis</li>
@@ -76,7 +85,7 @@
 <ul>
   <li><strong>Computer Skills:</strong> Office, Dev-c++, MYSQL, Visual C++, Java IDEA</li>
   <li><strong>Material Skills:</strong> Tencent Cloud Developer Certification</li>
-  <li><strong>Test:</strong> Chinese (Grade A Level II), English (TOEFL- 112), GRE(167+170+5.0)</li>
+  <li><strong>Test:</strong> Chinese (Grade A Level II), English (TOEFL-112), GRE(167+170+5.0)</li>
   <li><strong>Certificates:</strong> SCRUM Foundation professional certificate, Green Software for Practitioners (LFC131), Advanced Google Analytics, the Digital Adda Artificial Intelligence Certification Program, Alibaba Cloud Certification of Fintech Solution Fundamentals, the Digital Adda C Programming Language Certification, Gremlin Certificated Chaos Engineering Professional</li>
   <li><strong>Strengths:</strong> Sturdy Resistance to Force, Strong Communicator</li>
 </ul>
